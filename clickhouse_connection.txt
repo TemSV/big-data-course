@@ -1,0 +1,7 @@
+Connection Id: spark_default (именно так, буква в букву, это имя ищет ваш DAG)
+
+Connection Type: Выберите Spark из выпадающего списка.
+
+Host: spark://spark-master (имя контейнера из вашего docker-compose)
+
+Port: 7077

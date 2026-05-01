@@ -27,8 +27,8 @@ docker compose up -d
 
 **2. Доступ к интерфейсам**
 * **Spark Master UI:** `http://localhost:8080` (статус воркеров и запущенных джоб)
-* **ClickHouse Web UI:** `http://localhost:8123/play` (встроенная консоль для SQL-запросов, логин `default`)
-* **Airflow UI:** `http://localhost:<порт_airflow>` (запуск DAG)
+* **ClickHouse Web UI:** `http://localhost:8123/play` (встроенная консоль для SQL-запросов, логин `default`, пароль `clickhouse_pass`)
+* **Airflow UI:** `http://localhost:8081` (запуск DAG)
 
 
 

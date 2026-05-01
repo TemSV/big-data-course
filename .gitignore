@@ -38,4 +38,5 @@ Pipfile.lock
 .DS_Store
 Thumbs.db
 data/
-
+*.cfg
+*.generated
